@@ -14,6 +14,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .head-baner{
     background-image: url(images/top-banner.png);
@@ -21,7 +22,8 @@ section{
 }
 .head-tit{
     width: 50%;
-    padding-left: 2%;
+    padding-left: 5%;
+    margin-top: 3%;
 }
 .head-tit img{
     width: 80%;
@@ -33,4 +35,9 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: bold;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
