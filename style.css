@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: #F3DA03;
+}
+section{
+    display: flex;
+}
+.head-baner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.head-tit{
+    width: 50%;
+    padding-left: 2%;
+}
+.head-tit img{
+    width: 80%;
+}
+.hire-me{
+    text-decoration: none;
+    background-color: #F78969;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
